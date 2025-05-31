@@ -7,6 +7,7 @@ Objective: To build a user-friendly web application that predicts heart disease 
 Tools Used: Python, Flask, Machine Learning
 
 Key Learnings:
+
 Developed a simple and intuitive web interface using Flask for collecting user health metrics
 
 Trained a Random Forest Classifier on medical data to predict heart disease risk
